@@ -33,10 +33,10 @@ A compact and powerful tool built using an ESP8266 microcontroller to perform **
 ## 📁 Project Structure
 
 ```
-esp8266-wifi-deauther/
-├── Deauther.ino           # Main Arduino code for WiFi attacks
-├── README.md              # Project documentation
-└── data/                  # (Optional) Files for web interface
+Wifi_Deauther_ESP8266/
+├── esp8266_deauther       
+|   └──esp8266_deauther.ino   # Main Arduino code for WiFi attacks
+└── README.md                 # Project documentation
 ```
 
 ---
@@ -68,7 +68,7 @@ Install the following libraries from **Library Manager**:
 
 ### Step 3: Flash the Code
 
-1. Open `Deauther.ino` in Arduino IDE.
+1. Open `# esp8266_deauther.ino` in Arduino IDE.
 2. Select board: `Tools > Board > NodeMCU 1.0 (ESP-12E Module)`
 3. Select COM port: `Tools > Port > [Your COM Port]`
 4. Upload the sketch: `Sketch > Upload`
