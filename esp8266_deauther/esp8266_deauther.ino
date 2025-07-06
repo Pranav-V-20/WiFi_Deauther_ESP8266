@@ -1,12 +1,12 @@
 /* =====================
    This software is licensed under the MIT License:
-   https://github.com/spacehuhntech/esp8266_deauther
+   https://github.com/Pranav-V-20/Wifi_Deauther_ESP8266.git
    ===================== */
 
 extern "C" {
     // Please follow this tutorial:
-    // https://github.com/spacehuhn/esp8266_deauther/wiki/Installation#compiling-using-arduino-ide
-    // And be sure to have the right board selected
+    // https://github.com/Pranav-V-20/Wifi_Deauther_ESP8266/wiki/Installation#compiling-using-arduino-ide
+    // And be sure to have the right board select
   #include "user_interface.h"
 }
 
